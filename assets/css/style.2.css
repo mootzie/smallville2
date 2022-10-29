@@ -377,6 +377,9 @@ section.homepage-two-slider.h-100 {
      background: #222;
      color: #fff;
 }
+.red{
+     color: red;
+}
 /* home two shop area css */
  .home-two-shop-single-item-feature-image {
      height: 300px;
