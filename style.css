@@ -42,6 +42,9 @@ body {
      line-height: 1.7;
      color: #7b7b90;
 }
+html,body{
+    overflow-x: hidden;
+}
  .opensans {
      font-family: 'Open Sans', sans-serif;
 }
@@ -393,9 +396,10 @@ body {
      height: 110px;
      margin: 0 auto;
      line-height: 110px;
-     background: #ffe6e5;
+     background: #f0bab8;
      border-radius: 50%;
 }
+
  .single-feature-icon img {
      max-width: 65px;
 }
