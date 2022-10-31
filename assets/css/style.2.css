@@ -84,6 +84,14 @@ section.homepage-two-slider.h-100 {
  section.homepage-two-slider.owl-carousel .owl-controls .owl-dots div:nth-child(4) span:before {
      content: "04";
 }
+
+.logo_h {
+    display: flex;
+    padding: 10px 40px 10px 0;
+    margin-left: 0 !important;
+
+}
+
 /* about area css */
  section.about-us-home-two {
      background-size: cover;

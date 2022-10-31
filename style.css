@@ -166,6 +166,10 @@ body {
  img {
      max-width: 100%;
 }
+
+
+
+
 /* 2. Main Menu area css */
  header.header_area {
      position: absolute;
@@ -216,7 +220,7 @@ body {
      padding: 0;
 }
  header.header_area {
-     padding: 20px 0;
+     /* padding: 20px 0; */
 }
  header.header_area ul li.nav-item.dropdown.show .dropdown-menu li a {
      display: block;
@@ -286,6 +290,12 @@ body {
          top: 0;
     }
 }
+
+
+
+
+
+
 /* 3. breadcum area css */
  section.breadcum-area {
      background-size: cover;
