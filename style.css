@@ -203,6 +203,9 @@ html,body{
      display: block;
      padding: 0;
 }
+#header_area .left {
+    float: left;
+}
  header.header_area ul li.nav-item.dropdown.show .dropdown-menu {
      border: 0;
      border-radius: 0;
