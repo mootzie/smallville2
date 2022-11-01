@@ -174,6 +174,13 @@ html,body{
 
 
 /* 2. Main Menu area css */
+@media screen and (max-width: 500px) {
+    .logo_h{
+        position: relative;
+        left: 5.2em;
+        margin: 0 auto;
+    }
+}
  header.header_area {
      position: absolute;
      left: 0;
@@ -947,6 +954,7 @@ html,body{
      z-index: -1;
      opacity: .7;
      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+     margin-top: 20px;
 }
  .banner-left-side, .banner-left-side h4 {
      color: #fff;
@@ -2053,4 +2061,16 @@ html,body{
          -webkit-transform: translate(0, 20px);
          transform: translate(0, 20px);
     }
+}
+@media screen and(max-width: 500px) {
+ .gmap{
+    position: relative;
+     left: -14rem;
+    margin-bottom: 0; 
+    width: 200px;
+    height: 200px
+ }   
+}
+.gmap{
+    display: block;
 }

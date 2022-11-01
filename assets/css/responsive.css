@@ -150,8 +150,8 @@
          top: 0px;
     }
      header.header_area.sticky {
-         padding-top: 10px;
-         padding-bottom: 10px;
+         /* padding-top: 10px;
+         padding-bottom: 10px; */
     }
      .header_area .navbar-collapse {
          padding: 40px 0 20px;
