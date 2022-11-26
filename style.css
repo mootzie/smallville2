@@ -170,7 +170,12 @@ html,body{
      max-width: 100%;
 }
 
-
+@media screen and (max-width:500px){
+    .logo_h img{
+        left: -6.2em;
+    }
+    
+}
 
 
 /* 2. Main Menu area css */
